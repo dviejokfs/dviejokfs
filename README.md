@@ -13,8 +13,8 @@
 
 ## AI Tools & Developer Infrastructure
 
-- 🌡️ **[Temps](https://github.com/gotempsh/temps)** — Self-host your own Vercel. Open-source PaaS with CI/CD, monitoring, session replay, error tracking, and analytics. Built in Rust with Pingora.
-- 🚇 **[Localup](https://github.com/localup-dev/localup)** — Expose your local services to the internet with secure tunnels. Fast, simple, and developer-friendly.
+- 🌡️ **[Temps](https://github.com/gotempsh/temps)** — Self-host your own Vercel. Open-source PaaS with CI/CD, monitoring, session replay, error tracking, and analytics. Built in Rust with Pingora. `⭐ 215`
+- 🚇 **[Localup](https://github.com/localup-dev/localup)** — Expose your local services to the internet with secure tunnels. Fast, simple, and developer-friendly. `⭐ 4`
 
 ## Blockchain & Hyperledger Fabric
 
