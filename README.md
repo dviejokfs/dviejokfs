@@ -13,14 +13,14 @@
 
 ## AI Tools & Developer Infrastructure
 
-- 🌡️ **[Temps](https://github.com/gotempsh/temps)** — Self-host your own Vercel. Open-source PaaS with CI/CD, monitoring, session replay, error tracking, and analytics. Built in Rust with Pingora. `⭐ 215`
-- 🚇 **[Localup](https://github.com/localup-dev/localup)** — Expose your local services to the internet with secure tunnels. Fast, simple, and developer-friendly. `⭐ 4`
+- 🌡️ **[Temps](https://github.com/gotempsh/temps)** — Self-host your own Vercel. Open-source PaaS with CI/CD, monitoring, session replay, error tracking, and analytics. Built in Rust with Pingora. `⭐ 372`
+- 🚇 **[Localup](https://github.com/localup-dev/localup)** — Expose your local services to the internet with secure tunnels. Fast, simple, and developer-friendly. `⭐ 5`
 
 ## Blockchain & Hyperledger Fabric
 
 Creator and maintainer of the most widely used tooling for running Hyperledger Fabric on Kubernetes. Contributed to the Hyperledger Foundation and Linux Foundation Decentralized Trust.
 
-- ⚙️ **[Bevel Operator Fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)** — The Hyperledger Fabric Kubernetes operator. Supports v2.3 through v3.1. `⭐ 297` `🍴 100`
+- ⚙️ **[Bevel Operator Fabric](https://github.com/hyperledger-bevel/bevel-operator-fabric)** — The Hyperledger Fabric Kubernetes operator. Supports v2.3 through v3.1. `⭐ 298` `🍴 100`
 - 🚀 **[ChainDeploy](https://github.com/LF-Decentralized-Trust-labs/chaindeploy)** — Deploy Hyperledger Fabric and Besu networks on baremetal (and join them too). `⭐ 12`
 - 🛠️ **[HLF Easy](https://github.com/kfsoftware/hlf-easy)** — Simplify the process of setting up Hyperledger Fabric nodes on baremetal environments. `⭐ 13`
 - 🔍 **[HLF Operator Explorer](https://github.com/kfsoftware/hlf-operator-explorer)** — Visual explorer for Hyperledger Fabric networks managed by the operator. `⭐ 7`
@@ -56,7 +56,7 @@ Creator and maintainer of the most widely used tooling for running Hyperledger F
 ### Stats
 
 - 🏗️ 2,000+ contributions in the last year
-- ⭐ 400+ stars across projects
+- ⭐ 700+ stars across projects
 - 🤝 50 followers
 - 🏢 Active member of Hyperledger Foundation & Linux Foundation Decentralized Trust
 
